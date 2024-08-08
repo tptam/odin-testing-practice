@@ -1,0 +1,17 @@
+{
+  "name": "odin-testing-practice",
+  "version": "1.0.0",
+  "description": "An assignment solution for <a href=\"https://www.theodinproject.com/lessons/node-path-javascript-testing-practice\">Project: Testing Practice</a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.3",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
